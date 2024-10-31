@@ -1,0 +1,14 @@
+C:\Curso\Hospedes\bin\Debug\net8.0\Hospedes.exe
+C:\Curso\Hospedes\bin\Debug\net8.0\Hospedes.deps.json
+C:\Curso\Hospedes\bin\Debug\net8.0\Hospedes.runtimeconfig.json
+C:\Curso\Hospedes\bin\Debug\net8.0\Hospedes.dll
+C:\Curso\Hospedes\bin\Debug\net8.0\Hospedes.pdb
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.AssemblyInfoInputs.cache
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.AssemblyInfo.cs
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.csproj.CoreCompileInputs.cache
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.dll
+C:\Curso\Hospedes\obj\Debug\net8.0\refint\Hospedes.dll
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.pdb
+C:\Curso\Hospedes\obj\Debug\net8.0\Hospedes.genruntimeconfig.cache
+C:\Curso\Hospedes\obj\Debug\net8.0\ref\Hospedes.dll
